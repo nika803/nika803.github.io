@@ -1,0 +1,86 @@
+body{
+ background-color: pink;
+}
+ul {
+  list-style-type: none;
+  margin: left;
+  padding: auto;
+  overflow: hidden;
+  background-color: ;
+}
+ul {
+  position: fixed;
+  top: 10;
+  width: 70%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 40px;
+  text-decoration: none;
+}
+
+h1 {
+  inner-carousel-item
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+}
+li a:hover {
+  background-color: #111;
+}
+.active {
+  background-color: #ffebfe;
+}
+
+header{
+  border:;
+  background-color: ;
+}
+main{
+  border: ;
+  background-color: ;
+}
+footer{
+  border: ;
+  background-color: ;
+}
+
+img{
+  width: 450px;
+}
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+.button {background-color: #dark brown;}
+
+.colums{
+  width:450px;
+  display: inline-block;
+}
+#container {
+
+  background-image: url(sunset.jpg);
+  width: 100px
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
