@@ -26,20 +26,23 @@ li a {
   text-decoration: none;
 }
 
-h1 {
-  inner-carousel-item
-  text-align: center;
-  padding-bottom: 30px;
-}
-
-}
 li a:hover {
   background-color: #111;
 }
 .active {
   background-color: #ffebfe;
 }
+h1 {
+text-align: center;
+}
 
+h2 {
+text-align: center;
+}
+
+p {
+text-align: left;
+}
 header{
   border:;
   background-color: ;
@@ -49,6 +52,7 @@ main{
   background-color: ;
 }
 footer{
+
   border: ;
   background-color: ;
 }
@@ -56,25 +60,116 @@ footer{
 img{
   width: 450px;
 }
+
 .button {
   border: none;
   color: white;
-  padding: 15px 32px;
-  text-align: center;
+  padding: 20px 110px;
+  border-radius: 25px;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 23px;
   margin: 4px 2px;
+  margin-top: 340px;
+  margin-left: 250px;
   cursor: pointer;
+  background-color: #f8ccfc;
+}
+.button:hover {
+  color: #5e185d;
 }
 
+.button2 {
+  border: none;
+  color: white;
+  padding: 20px 110px;
+  border-radius: 25px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 23px;
+  margin: 4px 2px;
+  margin-top: 3px;
+  margin-left: 540px;
+  cursor: pointer;
+  background-color: #f8ccfc;
+}
+.button2:hover {
+  color: #5e185d;
+}
 
-.button {background-color: #dark brown;}
+.button3 {
+  border: none;
+  color: white;
+  padding: 20px 110px;
+  border-radius: 25px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 23px;
+  margin: 4px 2px;
+  margin-top: 3px;
+  margin-left: 540px;
+  cursor: pointer;
+  background-color: #f8ccfc;
+}
+.button3:hover {
+  color: #5e185d;
+}
 
-.colums{
+.button4 {
+  border: none;
+  color: white;
+  padding: 20px 110px;
+  border-radius: 25px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 23px;
+  margin: 4px 2px;
+  margin-top: 3px;
+  margin-left: 570px;
+  cursor: pointer;
+  background-color: #f8ccfc;
+}
+.button4:hover {
+  color: #5e185d;
+}
+.colum1{
   width:450px;
   display: inline-block;
+  margin-top: 200px;
+  margin-left: 200px;
+  vertical-align: top;
+  font-size: 23px;
+
 }
+.colum2{
+  width:450px;
+  display: inline-block;
+  margin-top: 270px;
+  margin-left: 250px;
+
+  vertical-align: top;
+}
+
+.colum4{
+  color: white;
+  width:450px;
+  display: inline-block;
+  margin-top: 200px;
+  margin-left: 200px;
+  vertical-align: top;
+  font-size: 50px;
+}
+
+.colum4 a{
+  color: white;
+}
+.colum4 a:hover, .colum4 a:active {
+  background-color: #f8ccfc;
+}
+
+
+}
+
 #container {
 
   background-image: url(sunset.jpg);
